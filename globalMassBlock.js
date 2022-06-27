@@ -1,4 +1,4 @@
-// Mass block tool by [[User:Krimpet]]
+// Mass block tool by [[User:Krimpet]], modified by [[User:TheresNoTime]]
 // Navigate to [[Special:Globalmassblock]] to use the tool.
 
 function getParameter(p) {
