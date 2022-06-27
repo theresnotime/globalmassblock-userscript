@@ -1,0 +1,22 @@
+{
+  "name": "globalmassblock-userscript",
+  "version": "1.0.0",
+  "description": "Mass global blocks",
+  "main": "globalMassBlock.js",
+  "scripts": {
+    "test": "npx prettier -c globalMassBlock.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theresnotime/globalmassblock-userscript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theresnotime/globalmassblock-userscript/issues"
+  },
+  "homepage": "https://github.com/theresnotime/globalmassblock-userscript#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
