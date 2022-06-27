@@ -1,4 +1,5 @@
 // Mass block tool by [[User:Krimpet]], modified by [[User:TheresNoTime]]
+// Bugs: https://github.com/theresnotime/globalmassblock-userscript
 // Navigate to [[Special:Globalmassblock]] to use the tool.
 
 function getParameter(p) {
